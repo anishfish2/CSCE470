@@ -3,7 +3,7 @@ import styles from '../styles/Home.module.css';
 
 export default function Home() {
   return (
-    <div>
+    <div className="bg-black text-white">
       <title>Cav’s AlgoRhythms</title>
       <head>
           <meta name="viewport" content="width=device-width, initial-scale=1.0"></meta>
@@ -44,11 +44,11 @@ export default function Home() {
           </footer>
       </body>
       <div>Shamelessly link to own page</div>
-      <a href="https://cavs-algorhythms.vercel.app/" title="Cav’s AlgoRhythms">Cav’s AlgoRhythms</a>
-      <a href="https://cavs-algorhythms.vercel.app/" title="Cav’s AlgoRhythms">Cav’s AlgoRhythms</a>
-      <a href="https://cavs-algorhythms.vercel.app/" title="Cav’s AlgoRhythms">Cav’s AlgoRhythms</a>
-      <a href="https://cavs-algorhythms.vercel.app/" title="Cav’s AlgoRhythms">Cav’s AlgoRhythms</a>
-      <a href="https://cavs-algorhythms.vercel.app/" title="Cav’s AlgoRhythms">Cav’s AlgoRhythms</a>
+      <a href="https://cavs-algorhythms.vercel.app/" title="Cav’s AlgoRhythms          ">Cav’s AlgoRhythms</a>
+      <a href="https://cavs-algorhythms.vercel.app/" title="Cav’s AlgoRhythms          ">Cav’s AlgoRhythms</a>
+      <a href="https://cavs-algorhythms.vercel.app/" title="Cav’s AlgoRhythms          ">Cav’s AlgoRhythms</a>
+      <a href="https://cavs-algorhythms.vercel.app/" title="Cav’s AlgoRhythms          ">Cav’s AlgoRhythms</a>
+      <a href="https://cavs-algorhythms.vercel.app/" title="Cav’s AlgoRhythms          ">Cav’s AlgoRhythms</a>
 
     </div>
     );
