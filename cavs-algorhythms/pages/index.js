@@ -5,7 +5,7 @@ import 'typeface-poppins';
 import Image from "next/image";
 import Link from 'next/link';
 
-import recordplayer from "C:/Users/Owner/Desktop/Projects/School/CSCE470/CSCE470/cavs-algorhythms/pages/vinyl-records-record-collection.gif" 
+import recordplayer from "./vinyl-records-record-collection.gif" 
 export default function Home() {
   return (
     <div className="bg-black text-white font-poppins">
