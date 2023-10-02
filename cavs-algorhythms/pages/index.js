@@ -20,7 +20,28 @@ export default function Home() {
             <h2>About Cav's AlgoRhythms</h2>
             <p>SEO made by Anish Karthik UIN: 631004139</p>
         </section>
-    
+        <div>
+        Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms
+        Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms
+        Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms
+        Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms
+        Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms
+        Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms
+        Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms
+        Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms
+        Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms
+        Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms
+        Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms
+        Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms
+        Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms
+        Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms
+        Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms
+        Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms
+        Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms
+        Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms
+        Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms
+        Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms Cav's AlgoRhythms
+        </div>
     
         <footer>
             <p>&copy; 2023 Cav's AlgoRhythms. All rights reserved.</p>
